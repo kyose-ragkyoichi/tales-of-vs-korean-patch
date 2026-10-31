@@ -4,7 +4,18 @@ PSP 일본판 **TALES OF VS. (ULJS00209)**의 비공식 한국어 팬 번역 패
 
 **한글패치: 라그나로크 쿄이치**
 
-## 다운로드
+## 최신 다운로드
+
+### 🚀 [한글패치 v0.9 다운로드 및 상세 안내](https://github.com/kyose-ragkyoichi/tales-of-vs-korean-patch/releases/tag/v0.9) (최신 권장)
+- **스토리(8,207행), 서브 스킷(1,189행), 메뉴/도감(8,314행) 총 17,710행 원문 1:1 전수 대조 및 2,636행 수정 완료**
+- 칭호 및 무기 획득 메시지와 목록/도감 간 불일치 전수 동기화
+- 주요 고유명사(시글루스, 큰 결실, 삼여신 깃발, 세계수의 무녀, 콩맨 등) 및 조사 오류 전면 교정
+- 루크(Luke)와 루카(Ruca) 인명 엄격 구분 및 시리즈 공식 표기 반영
+- 14px 한글 글리프 폰트 메트릭 최적화 및 PPSSPP 실기 검증 완료
+
+---
+
+### 이전 버전 (v0.89)
 
 [한글패치 v0.89 다운로드 및 상세 안내](https://github.com/kyose-ragkyoichi/tales-of-vs-korean-patch/releases/tag/v0.89)
 
@@ -25,7 +36,7 @@ PSP 일본판 **TALES OF VS. (ULJS00209)**의 비공식 한국어 팬 번역 패
 ## 적용 방법
 
 1. 직접 보유한 PSP 일본판 원본 ISO와 xdelta 패치 프로그램을 준비합니다.
-2. [v0.89 릴리스](https://github.com/kyose-ragkyoichi/tales-of-vs-korean-patch/releases/tag/v0.89)의 Assets에서 xdelta 파일을 받습니다.
+2. [v0.9 릴리스](https://github.com/kyose-ragkyoichi/tales-of-vs-korean-patch/releases/tag/v0.9) (또는 [v0.89](https://github.com/kyose-ragkyoichi/tales-of-vs-korean-patch/releases/tag/v0.89))의 Assets에서 xdelta 파일을 받습니다.
 3. Delta Patcher 또는 xdeltaUI에서 원본 ISO와 패치 파일을 선택해 새 ISO를 생성합니다.
 4. PPSSPP 또는 사용자 환경에 맞는 PSP에서 생성한 ISO를 실행합니다.
 
